@@ -1,6 +1,6 @@
 # 🎤 Mobile Mic Client
 
-Mobile Mic Client, Flutter ile geliştirilmiş, mobil cihazı **Wi-Fi üzerinden canlı mikrofon** olarak kullanmayı sağlayan bir uygulamadır.  
+Mobile Mic Client, Flutter and C ile geliştirilmiş, mobil cihazı **Wi-Fi üzerinden canlı mikrofon** olarak kullanmayı sağlayan bir uygulamadır.  
 Uygulama, sesi **Opus codec** ile sıkıştırarak düşük gecikme ve yüksek kalite ile bir sunucuya (`mic_server`) gönderir.
 
 ---
